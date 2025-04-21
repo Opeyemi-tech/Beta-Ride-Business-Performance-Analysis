@@ -20,7 +20,7 @@ payment_type, weather_condition, driver_id, trip_purpose
 
 ## Goal of the Analysis
 Beta Ride wants to:
-Identify trends in revenue and growth
-Understand customer demand and trip patterns
-Analyze the impact of traffic and weather on rides
-Optimize their operations for better efficiency and profits
+- Identify trends in revenue and growth
+- Understand customer demand and trip patterns
+- Analyze the impact of traffic and weather on rides
+- Optimize their operations for better efficiency and profits
