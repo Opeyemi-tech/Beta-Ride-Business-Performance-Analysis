@@ -78,6 +78,9 @@ Beta Ride wants to:
 ### Optimize Operations in High-Revenue Areas:
   - Increase vehicle availability in Downtown, Midtown, and Airports, ensuring there are always enough drivers to meet demand.
 
+## Challenges:
+During the Beta Ride Power BI project, I faced multiple challenges. These included aligning trip data with external factors like weather and peak operating times to identify actionable trends. Crafting advanced DAX measures for key performance indicators, such as driver efficiency and peak-hour revenue, required extensive research and learning. Furthermore, maintaining data quality and creating an intuitive, interactive dashboard for a non-technical audience necessitated a methodical approach to data modeling and visual communication. By continuously exploring Power BI resources, applying DAX functions practically, and refining the dashboard iteratively, I managed to overcome these obstacles and produce a comprehensive and user-friendly analytical solution.
+
 
 
 
