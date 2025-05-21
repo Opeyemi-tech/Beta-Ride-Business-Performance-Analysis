@@ -24,3 +24,34 @@ Beta Ride wants to:
 - Understand customer demand and trip patterns
 - Analyze the impact of traffic and weather on rides
 - Optimize their operations for better efficiency and profits
+
+## Data Analysis
+### 1. Revenue & Growth
+<img width="604" alt="Total Revenue" src="https://github.com/user-attachments/assets/d578abb6-4ab2-419d-afcc-68db020cd841" />
+
+### 2. Trip Demand
+<img width="599" alt="Trip Demand" src="https://github.com/user-attachments/assets/d7bf9618-b42b-45b6-ab2b-29a50116916c" />
+
+## 3. Operational Insights
+<img width="599" alt="Operational Insights" src="https://github.com/user-attachments/assets/08adde32-0100-4719-97cd-de7e80d2630b" />
+- Revenue:
+Distribution Across Peak Periods:
+Off-peak hours generate the highest revenue ($12.37K, 62.67%), followed by evening peak ($4.11K, 20.95%) and morning peak ($3.23K, 16.38%).
+##### This suggests that most trips and revenue are occurring outside of traditional peak commuting hours.
+
+-Trips by Weather Condition:
+The highest number of trips occurred under "Moderate" and "Good" weather conditions, while fewer trips happened in "Bad" weather.
+
+##### Bad weather negatively affects demand, potentially due to safety concerns.
+
+-Payment Preferences:
+Card (52%) and Cash (48%) payments are nearly balanced.
+##### This shows the importance of maintaining both options for convenience.
+
+- Revenue Growth Trend:
+Revenue rose month-over-month, reaching its peak in July.
+Analyzing the factors behind this spike (seasonality, Revenue by Location: Airports, Downtown, and Midtown generate the highest revenue marketing, etc.) can facilitate replicating this success.
+
+##### These areas likely experience the greatest trip demand, making them crucial zones for optimizing driver allocation.
+
+
